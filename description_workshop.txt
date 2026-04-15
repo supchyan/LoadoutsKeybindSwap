@@ -1,0 +1,5 @@
+Allows to swap specified loadouts pressing a single button. (configuration included)
+
+It's highly recommened to use Swap Loadouts While Using Items mod as well if you want to swap loadouts quickly.
+
+There is no compatability with Extended Equipment Loadouts mod.

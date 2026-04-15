@@ -1,0 +1,41 @@
+Mods: {
+	LoadoutsKeybindSwap: {
+		Chat.ExtraLoadoutsWarning: WARNING: <{0}> is incompatable with <{1}>. You only be able to swap between 3 first loadouts with a keybind.
+		Keybinds.LoadoutSwap.DisplayName: Loadouts Swap
+
+		Configs: {
+			Config: {
+				DisplayName: Configuration
+
+				Headers: {
+					LoadoutsSelect: Vanilla Loadouts
+					Misc: Misc
+				}
+
+				Loadout1: {
+					Label: Loadout1
+					Tooltip: Specify if loadout is included into the loadout swap.
+				}
+
+				Loadout2: {
+					Label: Loadout2
+					Tooltip: Specify if loadout is included into the loadout swap.
+				}
+
+				Loadout3: {
+					Label: Loadout3
+					Tooltip: Specify if loadout is included into the loadout swap.
+				}
+
+				IsWarningEnabled: {
+					Label: Show <Extended Equipment Loadouts> warning
+					Tooltip:
+						'''
+						Turn it off if you don't want to see compitability warning,
+						while <Extended Equipment Loadouts> is enabled.
+						'''
+				}
+			}
+		}
+	}
+}

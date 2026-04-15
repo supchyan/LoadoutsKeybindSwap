@@ -1,0 +1,3 @@
+displayName = Loadouts Keybind Swap
+author = supchyan
+version = 1.0
